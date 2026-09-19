@@ -59,6 +59,3 @@ See [`iPhone_Sales_Analysis_Summary_Report.pdf`](./iPhone_Sales_Analysis_Summary
 - Expand the dataset to more iPhone generations and other retailers for comparison
 - Build an interactive dashboard (Plotly Dash/Streamlit) for exploring price vs. popularity
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
