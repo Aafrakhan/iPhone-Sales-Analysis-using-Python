@@ -1,6 +1,6 @@
 # 📱 iPhone Sales Analysis
 
-Exploratory data analysis of Apple iPhone listings on Flipkart India — exploring pricing, discounts, customer ratings, and review volume across the iPhone lineup using Python, Pandas, and Seaborn/Plotly.
+Exploratory data analysis of Apple iPhone listings on Flipkart India exploring pricing, discounts, customer ratings, and review volume across the iPhone lineup using Python, Pandas, and Seaborn/Plotly.
 
 ## 📌 Overview
 
